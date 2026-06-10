@@ -18,8 +18,6 @@ Tenho interesse em arquitetura de sistemas, desenvolvimento de APIs, modelagem d
 * Java
 * Spring Boot
 * SQL
-* Git
-* GitHub
 * Maven
 * JPA/Hibernate
 
