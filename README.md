@@ -1,6 +1,6 @@
 # Guilherme Silva
 
-Backend Developer | Java
+Backend Developer | Java | C | SQL
 
 ## Tecnologias
 
