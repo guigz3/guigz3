@@ -1,47 +1,54 @@
 # Guilherme Silva
 
-Desenvolvedor com foco em Backend e Engenharia de Software.
+Backend Developer | Java
 
-## Sobre
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Interesse em desenvolvimento de sistemas, arquitetura de software, estruturas de dados, bancos de dados e construção de aplicações escaláveis.
+Desenvolvedor com foco em aplicações backend utilizando Java, bancos de dados relacionais e boas práticas de engenharia de software.
 
-Atualmente aprofundando conhecimentos em:
-
-* Java
-* Programação Orientada a Objetos
-* Estruturas de Dados e Algoritmos
-* SQL
-* Git e GitHub
-* Spring Boot
-
-## Projetos
-
-### Stock Manager
-
-Sistema de gerenciamento de estoque desenvolvido em Java com foco em organização de produtos, controle de inventário e persistência de dados.
-
-### Biblioteca Java
-
-Aplicação para gerenciamento de empréstimos, devoluções e controle de acervo.
-
-### API de Produtos
-
-API REST para operações CRUD utilizando Spring Boot, JPA e banco de dados relacional.
-
-## Competências
-
-* Desenvolvimento Backend
-* Programação Orientada a Objetos
-* Modelagem de Dados
-* Versionamento com Git
-* Resolução de Problemas
-* Estruturas de Dados
+Tenho interesse em arquitetura de sistemas, desenvolvimento de APIs, modelagem de dados e construção de aplicações escaláveis.
 
 ## Tecnologias
 
-Java • SQL • Git • GitHub • Spring Boot • C
+* Java
+* Spring Boot
+* SQL
+* Git
+* GitHub
+* Maven
+* JPA/Hibernate
+
+## Áreas de Interesse
+
+* Desenvolvimento Backend
+* APIs REST
+* Estruturas de Dados e Algoritmos
+* Bancos de Dados
+* Arquitetura de Software
+* Design Patterns
+
+## Projetos em Destaque
+
+### Stock Manager
+
+Sistema para gerenciamento de estoque com operações CRUD, persistência de dados e organização em camadas.
+
+### Product API
+
+API REST desenvolvida com Spring Boot para gerenciamento de produtos.
+
+### Data Structures
+
+Implementações de estruturas de dados e algoritmos utilizando Java.
+
+## Atualmente
+
+Desenvolvendo projetos para aprofundar conhecimentos em Java, Spring Boot, modelagem de dados e arquitetura backend.
 
 ## Contato
 
-Email: guilhermealvarenga.ti@gmail.com 
+LinkedIn: seu-linkedin
+
+Email: seu-email
